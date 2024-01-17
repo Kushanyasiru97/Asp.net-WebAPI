@@ -9,6 +9,7 @@
     }
   },
   "profiles": {
+
     "TaskAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
